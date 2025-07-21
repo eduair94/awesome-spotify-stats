@@ -4,12 +4,12 @@ This small list has many amazing and unique tools for providing statistics / ins
 
 
 ## Stats
-- [stats.fm](https://stats.fm) - track your spotify stats with much detail and insight; also works with Apple Music and Last.fm
+- [stats.fm](https://stats.fm) - track your Spotify stats with much detail and insight; also works with Apple Music and Last.fm
 - [Stats For Spotify](https://www.statsforspotify.com/) - simple, yet great tool for quickly checking your Spotify stats
 - [Spotify Pie](https://huangdarren1106.github.io/#) - turn your favourite artists from last month into sharable pie chart (not literally-)
 - [Discover Quickly](https://discoverquickly.com/) - sort your playlists by various criteria, like danceability or popularity
 - [receiptify](https://receiptify.herokuapp.com/) - generate your favourite songs or artists on aesthetic receipt
-- [Spotify Stats](https://spotifystats.app/) - shows some additional stats for Last.fm and Spotify.
+- [lastfm-stats-web](https://github.com/felhag/lastfm-stats-web) - shows some additional stats for Last.fm and Spotify
 - [NewTunes](https://newtunes.xyz/) - view the stats of your most played tracks and artists on Spotify
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) - self-hosted Spotify dashboard that tracks what you listen to and generates stats
 
