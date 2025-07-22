@@ -1,7 +1,6 @@
 # Awesome Spotify Stats
 
-This small list has many amazing and unique tools for providing statistics / insights into your listening habits.
-
+This small list includes many amazing, unique tools for providing statistics and insights into your listening habits.
 
 ## Stats
 - [stats.fm](https://stats.fm) - track your Spotify stats with much detail and insight; also works with Apple Music and Last.fm
