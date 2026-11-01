@@ -16,7 +16,7 @@ This small list includes many amazing, unique tools for providing statistics and
 - [Obscurify](https://obscurifymusic.com/login) - check your favourite artist and song obscurity level
 - [Volt.fm](https://volt.fm/) - show off your listening habits
 - [MusicTaste.Space](https://musictaste.space/) - music taste comparison with your friends, as well as general stats
-- [Spotify Play Count Checker](https://spotify.checkleaked.cc/spotify-play-count-checker) - look up any track's total streams and any artist's monthly listeners, no login
+- [Spotify Play Count Checker](https://spotify.checkleaked.cc/spotify-play-count-checker) - see the exact total streams of any Spotify track, no login
 
 ## Fun
 - [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - let the AI decide whether your music taste is awful, or even more awful!
